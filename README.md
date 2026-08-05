@@ -304,6 +304,7 @@ All REST APIs were successfully tested using **Postman**.
 - Hibernate ORM
 - PostgreSQL Integration
 - DTO Pattern
+- Validation using Jakarta Bean Validation
 - Global Exception Handling
 - Spring Security
 - JWT Authentication
